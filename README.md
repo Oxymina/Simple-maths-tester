@@ -1,4 +1,4 @@
-# PB2-py-sistēma-MathTutor
+# Simple Maths Tester MathTutor
 
 ## Program description
 
@@ -13,7 +13,7 @@ Teacher also may view test grades and class average.
 1. Theory
 2. Revision
 3. Test
-4. Teacher mode ( Add material )
+4. Teacher mode ( Add material, review grades )
 
 ## Base subjects
 
@@ -22,5 +22,5 @@ These are the default subjects built into the program.
 
 Extra subjects may be added by the teacher.
 
-#### Program made by Mikus Bumburs DP1-1
+#### Program made by M. Bumburs.
 
