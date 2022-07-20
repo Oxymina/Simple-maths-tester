@@ -21,6 +21,3 @@ These are the default subjects built into the program.
 1. Linear equations
 
 Extra subjects may be added by the teacher.
-
-#### Program made by M. Bumburs.
-
